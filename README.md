@@ -1,14 +1,20 @@
-Sleep Disorder Prediction with Machine Learning
+💤 Sleep Disorder Prediction with Machine Learning
+Identifying Insomnia and Sleep Apnea Through Lifestyle Data
+Sleep disorders like insomnia and sleep apnea affect millions—yet many go undiagnosed until symptoms become severe. While wearable devices and health apps track general sleep quality, they rarely pinpoint specific conditions.
 
-Identifying Insomnia and Sleep Apnea Using Lifestyle Data
-Sleep disorders like insomnia and sleep apnea affect millions of people and often go undiagnosed until they become serious. While wearables and health apps track sleep quality, they rarely help identify specific disorders.
-This project uses machine learning to predict the likelihood of sleep disorders based on lifestyle factors such as screen time, stress levels, physical activity, and sleep habits. By recognizing early warning signs, the model aims to guide users toward seeking professional evaluation before symptoms worsen.
+This project leverages machine learning to predict the likelihood of common sleep disorders using lifestyle data such as:
 
+💻 Screen time
+😰 Stress levels
+🏃 Physical activity
+🛌 Sleep patterns
 
-What This Project Does:
+By identifying early warning signs, the model aims to encourage users to seek professional evaluation before the condition worsens.
 
-Predicts the likelihood of insomnia and sleep apnea (Normal vs Disorder)
-Identifies key lifestyle patterns linked to sleep disorders
-Uses real data to train and evaluate model performance
-Offers predictions through a FastAPI-powered web interface
-Helps users take early action without needing a clinical diagnosis
+ What This Project Does
+🔍 Predicts the likelihood of Normal vs. Sleep Disorder (insomnia or sleep apnea)
+📊 Highlights key behavioral patterns associated with poor sleep health
+🧠 Trained on real-world data for meaningful results
+🌐 Features a user-friendly FastAPI web interface for instant predictions
+💡  Supports early action—without needing a formal diagnosis
+
